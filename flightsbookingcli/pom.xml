@@ -53,7 +53,7 @@
 	
 	<profiles>
 		<profile>
-			<id>otraPolla</id>
+			<id>Regression1</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -62,7 +62,7 @@
 						<version>2.22.2</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>otraPolla.xml</suiteXmlFile>
+								<suiteXmlFile>Regression1.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
@@ -70,7 +70,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>polla</id>
+			<id>Regression</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -79,7 +79,7 @@
 						<version>2.22.2</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>polla.xml</suiteXmlFile>
+								<suiteXmlFile>Regression.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
