@@ -89,6 +89,7 @@
 	</profiles>
 
   <build>
+    <sourceDirectory>scr/main/mvn</sourceDirectory>
     <pluginManagement>
       <plugins>
         <plugin>
