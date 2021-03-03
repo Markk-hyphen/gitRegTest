@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+    <groups>
+      <group name="SUV">
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="BMWX3" class="comexpediacli.TestNG_Grouping"/>
+      </group> <!-- SUV -->
+      <group name="Audi">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="AudiA6" class="comexpediacli.TestNG_Grouping"/>
+      </group> <!-- Audi -->
+      <group name="BMW">
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="BMW3Series" class="comexpediacli.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="BMWX3" class="comexpediacli.TestNG_Grouping"/>
+      </group> <!-- BMW -->
+      <group name="Honda">
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="HondaAccord" class="comexpediacli.TestNG_Grouping"/>
+      </group> <!-- Honda -->
+      <group name="Sedan">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="AudiA6" class="comexpediacli.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="BMW3Series" class="comexpediacli.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="HondaAccord" class="comexpediacli.TestNG_Grouping"/>
+      </group> <!-- Sedan -->
+    </groups>
+    <test name="Default test" duration-ms="82" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+      <class name="comexpediacli.TestNG_Grouping">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="beforeClass" is-config="true" duration-ms="9" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AudiA6()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="AudiA6" duration-ms="7" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AudiA6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="BMW3Series()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="BMW3Series" duration-ms="2" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMW3Series -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BMWX3()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="BMWX3" duration-ms="2" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMWX3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="HondaAccord()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="HondaAccord" duration-ms="2" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaAccord -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:comexpediacli.TestNG_Grouping@631330c]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-03-01T11:37:19 ART" finished-at="2021-03-01T11:37:19 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- comexpediacli.TestNG_Grouping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
