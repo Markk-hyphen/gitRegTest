@@ -89,7 +89,7 @@
 	</profiles>
 
   <build>
-    <sourceDirectory>flightsbookingcli/pom.xml</sourceDirectory>
+    <sourceDirectory>src/main/java</sourceDirectory>
     <pluginManagement>
       <plugins>
         <plugin>
