@@ -89,7 +89,6 @@
 	</profiles>
 
   <build>
-  	<sourceDirectory>scr/main/java</sourceDirectory>
     <pluginManagement>
       <plugins>
         <plugin>
